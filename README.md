@@ -1,7 +1,7 @@
 ### Olá, eu sou o Otniel Silva 👋
 
 - 🔭 Atualmente sou estagiário analista de suporte na Eagle Tecnologia 
-- 📚 6/8 Sistemas de Informação no IFMG - SJE
+- 📚 7/8 Sistemas de Informação no IFMG - SJE
 - 🌱 Estou estudando Flutter e desenvolvendo projetos pessoais e da faculdade utilizando este framework
 
  ##
