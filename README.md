@@ -8,6 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/otnielgusta">
+   <img align="center" alt="Otniel-Java" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://cdn-icons-png.flaticon.com/512/5968/5968350.png)">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otnielgusta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otnielgusta&layout=compact&langs_count=7&theme=dracula"/>
 </div>
