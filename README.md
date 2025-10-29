@@ -1,6 +1,6 @@
 ### Olá, eu sou o Otniel Silva 👋
 
-- 🔭 Atualmente sou Desenvolvedor back-end junior na PontoTel
+- 🔭 Atualmente sou Desenvolvedor back-end pleno na PontoTel
 - 📚 Sou Bacharel em Sistemas de Informação pelo IFMG - SJE
 
  ##
